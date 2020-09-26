@@ -1,4 +1,4 @@
-package com.inspira.mysqltest;
+package com.mojo.mysqltest;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

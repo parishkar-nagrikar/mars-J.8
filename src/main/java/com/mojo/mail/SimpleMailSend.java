@@ -1,4 +1,4 @@
-package com.inspira.mail;
+package com.mojo.mail;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;

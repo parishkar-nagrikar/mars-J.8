@@ -1,4 +1,4 @@
-package com.inspira.collection.List;
+package com.mojo.collection.List;
 
 import java.io.Serializable;
 import java.util.ArrayList;

@@ -1,6 +1,5 @@
-package com.inspira.collection.Set.SortedSet;
+package com.mojo.collection.Set.SortedSet;
 
-import java.util.HashSet;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
@@ -13,28 +12,21 @@ public class SortedSetDemo
     {
         SortedSet sortedSet= new TreeSet<>();
 
-        /*sortedSet.add('n');
-        sortedSet.add('n');
-        sortedSet.add('d');
-        sortedSet.add('a');
-        sortedSet.add('f');
-*/       // System.out.println(sortedSet);
+        sortedSet.add(1);
+        sortedSet.add(11);
+        sortedSet.add(111);
+        sortedSet.add(1111);
+        sortedSet.add(11111);
+        sortedSet.add(111111);
 
-        String str1=new String("g");
-        String str2=new String("v");
-        String str3=new String("c");
-        String str4=new String("j");
-        String str5=new String("h");
-
-        sortedSet.add(str1);
-        sortedSet.add(str2);
-        sortedSet.add(str3);
-        sortedSet.add(str4);
-        sortedSet.add(str5);
-
-
-
-        System.out.println(sortedSet.headSet(str5));
-        System.out.println(sortedSet.tailSet(str5));
+        System.out.println(
+                sortedSet.first() + " \n " +
+                        sortedSet.last() + " \n " +
+                            sortedSet.headSet(11) + " \n " +
+                        sortedSet.tailSet(111) + " \n " +
+                        sortedSet.subSet(1,111) + " \n " +
+                        sortedSet.comparator()
+        );
     }
+
 }

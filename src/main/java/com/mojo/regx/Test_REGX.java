@@ -1,4 +1,4 @@
-package com.inspira.regx;
+package com.mojo.regx;
 
 import java.util.HashMap;
 import java.util.Map;

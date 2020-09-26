@@ -1,7 +1,6 @@
-package com.inspira.collection.Set.LinkedHashSet;
+package com.mojo.collection.Set.LinkedHashSet;
 
 import java.util.LinkedHashSet;
-import java.util.Set;
 
 /**
  * Created by p-Star on 7/23/2017.

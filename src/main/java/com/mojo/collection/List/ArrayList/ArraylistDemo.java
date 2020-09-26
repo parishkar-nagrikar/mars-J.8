@@ -1,4 +1,4 @@
-package com.inspira.collection.List.ArrayList;
+package com.mojo.collection.List.ArrayList;
 
 import java.util.ArrayList;
 

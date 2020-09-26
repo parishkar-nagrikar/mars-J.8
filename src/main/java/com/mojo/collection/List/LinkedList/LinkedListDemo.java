@@ -1,4 +1,4 @@
-package com.inspira.collection.List.LinkedList;
+package com.mojo.collection.List.LinkedList;
 
 import java.util.LinkedList;
 

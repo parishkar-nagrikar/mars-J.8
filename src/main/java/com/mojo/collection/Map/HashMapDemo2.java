@@ -1,4 +1,4 @@
-package com.inspira.collection.Map;
+package com.mojo.collection.Map;
 
 import java.util.Collection;
 import java.util.HashMap;
@@ -7,10 +7,8 @@ import java.util.Set;
 /**
  * Created by p-Star on 8/2/2017.
  */
-public class HashMapDemo2
-{
-    public static void main(String[] args)
-    {
+public class HashMapDemo2 {
+    public static void main(String[] args) {
 
         HashMap m=new HashMap();
 
@@ -34,6 +32,5 @@ public class HashMapDemo2
 ///all key value thru set
         Set s1=m.entrySet();
         System.out.println(s1);
-
     }
 }

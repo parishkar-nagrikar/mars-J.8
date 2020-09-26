@@ -1,4 +1,4 @@
-package com.inspira.mail;
+package com.mojo.mail;
 
 import java.util.*;
 import javax.mail.*;

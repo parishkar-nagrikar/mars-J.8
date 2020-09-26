@@ -1,4 +1,4 @@
-package com.inspira.collection.List.Vector;
+package com.mojo.collection.List.Vector;
 
 /**
  * Created by p-Star on 7/20/2017.

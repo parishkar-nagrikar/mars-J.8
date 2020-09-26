@@ -1,4 +1,4 @@
-package com.inspira.mongotest;
+package com.mojo.mongotest;
 
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.MongoClient;

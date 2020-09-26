@@ -1,4 +1,4 @@
-package com.inspira.mail;
+package com.mojo.mail;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.mail.DefaultAuthenticator;

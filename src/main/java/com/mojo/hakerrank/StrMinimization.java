@@ -1,4 +1,4 @@
-package com.inspira.hakerrank;
+package com.mojo.hakerrank;
 
 public class StrMinimization {
 

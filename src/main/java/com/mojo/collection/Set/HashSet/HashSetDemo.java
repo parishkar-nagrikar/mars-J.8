@@ -1,4 +1,4 @@
-package com.inspira.collection.Set.HashSet;
+package com.mojo.collection.Set.HashSet;
 
 import java.util.HashSet;
 
@@ -14,7 +14,7 @@ public class HashSetDemo
         hashSet.add("q");
         hashSet.add("w");
         hashSet.add("e");
-        hashSet.add("r");
+         hashSet.add("r");
         hashSet.add("t");
         hashSet.add("y");
 

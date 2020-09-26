@@ -1,4 +1,4 @@
-package com.inspira.collection.List.Stack;
+package com.mojo.collection.List.Stack;
 
 import java.util.Stack;
 

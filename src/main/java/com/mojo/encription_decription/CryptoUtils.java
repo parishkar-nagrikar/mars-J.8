@@ -1,4 +1,4 @@
-package com.inspira.encription_decription;
+package com.mojo.encription_decription;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;

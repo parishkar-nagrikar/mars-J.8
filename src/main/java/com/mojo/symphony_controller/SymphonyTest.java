@@ -1,4 +1,4 @@
-package com.inspira.symphony_controller;
+package com.mojo.symphony_controller;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import org.bouncycastle.asn1.pkcs.RSAPrivateKey;

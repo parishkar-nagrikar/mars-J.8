@@ -1,4 +1,4 @@
-package com.inspira.sample_programs;
+package com.mojo.sample_programs;
 
 /**
  * Created by p-Star on 8/3/2017.

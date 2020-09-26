@@ -1,4 +1,4 @@
-package com.inspira.interfaces;
+package com.mojo.interfaces;
 // A simple program to Test Interface default
 // methods in java
 interface TestInterface

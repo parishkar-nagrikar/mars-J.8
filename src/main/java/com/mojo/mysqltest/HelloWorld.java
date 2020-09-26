@@ -1,4 +1,4 @@
-package com.inspira.mysqltest;
+package com.mojo.mysqltest;
 
 public class HelloWorld {
     public static void main(String[] args) {

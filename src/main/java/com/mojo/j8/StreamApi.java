@@ -1,4 +1,4 @@
-package com.inspira.j8;
+package com.mojo.j8;
 
 import java.util.ArrayList;
 

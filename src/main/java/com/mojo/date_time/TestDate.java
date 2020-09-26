@@ -1,4 +1,4 @@
-package com.inspira.date_time;
+package com.mojo.date_time;
 
 import java.util.Date;
 
