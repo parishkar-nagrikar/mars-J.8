@@ -1,6 +1,7 @@
 package com.mojo.collection.Map;
 
 import java.util.HashMap;
+import java.util.Hashtable;
 import java.util.Map;
 
 /**
@@ -19,5 +20,7 @@ public class HashMapDemo {
         m.put(null,1111);
 
         System.out.println(m);
+
+        Hashtable hashtable = new Hashtable();
     }
 }

@@ -1,6 +1,9 @@
 package com.mojo.collection.List.ArrayList;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.List;
 
 /**
  * Created by p-Star on 7/20/2017.
@@ -23,6 +26,9 @@ public class ArraylistDemo
         arrayList.set(0,null);
         Object obj= arrayList.clone();
 
+        List l = Collections.synchronizedList(arrayList);
+
+        System.out.println(l);
         System.out.println( obj);
 
 

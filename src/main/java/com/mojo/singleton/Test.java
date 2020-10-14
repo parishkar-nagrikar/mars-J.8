@@ -12,5 +12,10 @@ public class Test {
 
         if(mySingleton==mySingleton2)
             System.out.println("equal!");
+
+
+        EnumSingleton obj = EnumSingleton.INSTANCE;
+
+        obj.printme();
     }
 }

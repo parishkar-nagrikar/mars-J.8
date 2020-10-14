@@ -1,6 +1,7 @@
 package com.mojo.multithreading;
 
 public class MainThreadI {
+
     public static void main(String[] args) {
         MyRunnable r = new MyRunnable();
 
